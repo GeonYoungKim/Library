@@ -13,7 +13,7 @@ java swing mysql jdbc
 * 전체 보기 기능
 * 책의 대출 및 반납 현황 리스트뷰 기능
 
-<img src = './img/main.JPG' width = '600' height = '450' />
-<img src = './img/admin.JPG' width = '600' height = '450' />
-<img src = './img/client.JPG' width = '600' height = '450' />
-<img src = './img/insert.JPG' width = '600' height = '450' />
+<img src = './img/main.JPG' width = '300' height = '300' />
+<img src = './img/admin.JPG' width = '300' height = '300' />
+<img src = './img/client.JPG' width = '300' height = '300' />
+<img src = './img/insert.JPG' width = '300' height = '300' />
